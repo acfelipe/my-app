@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <!-- Menu items and dialog titles -->
+    <string name="action_add_room">Novo ambiente</string>
+    <string name="action_add_core">Novo Core</string>
+    <string name="action_add_item">Novo equipamento</string>
+    <string name="action_delete_room">Excluir ambiente</string>
+    <string name="action_delete_core">Excluir Core</string>
+    <string name="action_delete_item">Excluir equipamento</string>
+    <string name="action_refresh">Atualizar</string>
+
+    <!-- Menu actions and hints -->
+    <string name="ok_button">Ok</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="room_name_hint">Nome do ambiente</string>
+    <string name="item_name_hint">Nome do equipamento</string>
+    <string name="core_name_hint">Nome do Core</string>
+    <string name="core_id_hint">ID do Core</string>
+    <string name="core_access_token_hint">Access Token do Core</string>
+    <string name="core_pin_hint">Saída do Core</string>
+
+</resources>
